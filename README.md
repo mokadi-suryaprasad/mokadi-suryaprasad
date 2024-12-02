@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mokadisuryaprasad](https://medium.com/@mokadisuryaprasad)
 
-- 💬 Ask me about **AWS,Docker,kubernetes,Python,SQL**
+- 💬 Ask me about **AWS & Azure DevSecOps**
 
 - 📫 How to reach me **msuryaprasad11@gmail.com**
 
