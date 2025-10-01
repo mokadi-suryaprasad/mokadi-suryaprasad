@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **GCP & AWS DevSecOps**
 
-- 📫 How to reach me **msuryaprasad11@gmail.com**
+- 📫 How to reach me **msuryaprasad1188@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
