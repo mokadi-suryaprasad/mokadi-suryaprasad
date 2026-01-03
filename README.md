@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mokadisuryaprasad](https://medium.com/@mokadisuryaprasad)
 
-- 💬 Ask me about **GCP & AWS DevSecOps**
+- 💬 Ask me about **Cloud & DevSecOps**
 
 - 📫 How to reach me **msuryaprasad1188@gmail.com**
 
