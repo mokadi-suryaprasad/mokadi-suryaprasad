@@ -91,7 +91,7 @@ Topics I write about:
 ---
 
 ## 📫 Reach Me
-📧 **Email:** msuryaprasad1188@gmail.com  
+📧 **Email:** suryaprasad1188@gmail.com  
 
 ---
 
