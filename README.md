@@ -21,7 +21,7 @@ I specialize in:
 - ☁️ **Multi-cloud environments** (AWS, Azure, GCP)
 - 🔐 **DevSecOps pipelines** with security-first mindset
 - 🚀 **CI/CD automation** and container orchestration
-- 🧩 **Infrastructure as Code (IaC)** using Terraform & ARM
+- 🧩 **Infrastructure as Code (IaC)** using Terraform
 - 📊 **Monitoring, logging, and cloud governance**
 
 I enjoy solving **real-world production problems**, optimizing cloud costs, and helping teams ship software **faster and safer**.
