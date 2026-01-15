@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mokadi Surya Prasad</h1>
 <h3 align="center">
-Cloud & DevSecOps Engineer | AWS • Azure • GCP | Kubernetes • Terraform • CI/CD • Cloud Security
+Cloud & DevSecOps Engineer |• GCP • AWS | Kubernetes • Terraform • CI/CD • Cloud Security
 </h3>
 
 <p align="center">
