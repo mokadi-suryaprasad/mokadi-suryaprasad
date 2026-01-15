@@ -18,7 +18,7 @@ Building secure, scalable, and automated cloud platforms with DevSecOps best pra
 I’m a **Cloud & DevSecOps Engineer from India** with **3+ years of hands-on experience** in designing, automating, and securing cloud-native platforms.
 
 I specialize in:
-- ☁️ **Multi-cloud environments** (AWS, Azure, GCP)
+- ☁️ **Multi-cloud environments** (GCP, AWS)
 - 🔐 **DevSecOps pipelines** with security-first mindset
 - 🚀 **CI/CD automation** and container orchestration
 - 🧩 **Infrastructure as Code (IaC)** using Terraform
