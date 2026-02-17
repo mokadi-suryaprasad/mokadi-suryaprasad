@@ -31,7 +31,7 @@ I enjoy solving **real-world production problems**, optimizing cloud costs, and 
 ## 🔧 Tech Stack & Expertise
 
 ### ☁️ Cloud Platforms
-- AWS | Azure | Google Cloud Platform (GCP)
+- AWS | Google Cloud Platform (GCP)
 
 ### 🔐 DevSecOps & CI/CD
 - GitHub Actions | Jenkins | GitLab CI
